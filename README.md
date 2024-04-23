@@ -1,4 +1,5 @@
 # Docker-Vikas
+<h1>Three Tier Application in Docker</h1>
 
 1. `FROM node`: This line specifies the base image for the Docker image being built. In this case, it uses the official Node.js image from Docker Hub as the base image. It provides the necessary runtime environment for running Node.js applications.
 2. WORKDIR /app: This line sets the working directory inside the Docker container to /app. Any subsequent commands will be executed relative to this directory.
